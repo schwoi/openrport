@@ -10,7 +10,7 @@ require (
 	github.com/deckarep/golang-set v1.7.1
 	github.com/denisbrodbeck/machineid v1.0.1
 	github.com/felixge/httpsnoop v1.0.1 // indirect
-	github.com/go-ole/go-ole v1.2.6
+	github.com/go-ole/go-ole v1.3.0
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/golang-jwt/jwt/v4 v4.4.1
 	github.com/golang-migrate/migrate/v4 v4.7.0
